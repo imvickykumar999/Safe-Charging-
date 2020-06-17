@@ -1,0 +1,1 @@
+Write "python run.py" in address bar, hit enter.
