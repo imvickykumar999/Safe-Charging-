@@ -1,4 +1,6 @@
 UnZip Safe-Charging.rar, then...
-Write "python run.py" in address bar, hit enter.
+execute run.py
 
-....or just execute .py file.
+....or,
+
+Just execute safebattery.py file
