@@ -15,7 +15,7 @@ duration = 1000
 
 framepic = "f7hdg645df5g3.jpg"
 count = 0
-hk = 'hellovickykumar'  
+hk = 'your gmail password here'  
 fromaddr = toaddr = "imvickykumar999@gmail.com"
 
 msg = MIMEMultipart() 
